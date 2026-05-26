@@ -31,21 +31,21 @@ button {
 
 .button-primary {
   color: white;
-  background-color: #4f46e5;
-  border: 1px solid #4338ca;
+  background-color: #263238;
+  border: 1px solid #1c262b;
   border-radius: 8px;
   cursor: pointer;
-  box-shadow: 0 2px 5px rgba(79, 70, 229, 0.25);
+  box-shadow: 0 2px 5px rgba(38, 50, 56, 0.25);
 }
 
 .button-primary:hover {
-  background-color: #4338ca;
-  border: 1px solid #3730a3;
+  background-color: #37474f;
+  border: 1px solid #263238;
 }
 
 .button-primary:active {
-  background: #312e81;
-  border-color: #312e81;
+  background: #1b2529;
+  border-color: #1b2529;
   box-shadow: none;
 }
 
