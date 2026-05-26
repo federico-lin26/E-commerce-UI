@@ -69,7 +69,7 @@ export function renderPaymentSummary() {
 
     <button class="place-order-button button-primary
       js-place-order">
-      Place your order
+      Place your demo order
     </button>
   `;
 
