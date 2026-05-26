@@ -26,7 +26,7 @@ A responsive e-commerce frontend application built using HTML, CSS, and JavaScri
 
 **File Structure**
 ```
-amazon-clone/
+E-commerce-Frontend/
 ├── index.html
 ├── checkout.html
 ├── orders.html
