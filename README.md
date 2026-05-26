@@ -56,6 +56,8 @@ This project was created for educational and portfolio purposes only.
 All branding and design inspiration belong to their respective owners.
 This project is not affiliated with or endorsed by Amazon.
 
+---
+
 **License**
 
 This project is for learning and demonstration purposes. Do not redistribute or claim ownership of assets or code.
