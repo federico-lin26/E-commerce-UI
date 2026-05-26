@@ -1,6 +1,6 @@
-**E-commerce Frontend (HTML, CSS, JavaScript)**
+**E-commerce Frontend**
 
-A responsive e-commerce frontend application built using HTML, CSS, and JavaScript. This project demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality. You can visit the page live at [Amazon Clone](https://linus9426.github.io/E-commerce-Frontend-HTML-CSS-Javascript/)
+A responsive e-commerce frontend application built using HTML, CSS, and JavaScript. This project demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality. You can visit the page live at [Amazon Clone](https://linus9426.github.io/E-commerce-Frontend/)
 
 ---
 
