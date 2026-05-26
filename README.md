@@ -32,20 +32,20 @@ E-commerce-Frontend/
 ├── orders.html
 ├── tracking.html
 ├── images/
-│   ├── amazon-logo-white.png
-│   ├── amazon-mobile-logo-white.png
+│   ├── e-commerce-logo-white.png
+│   ├── e-commerce-mobile-logo-white.png
 │   └── icons/
 │       ├── search-icon.png
 │       └── cart-icon.png
 ├── scripts/
-│   ├── amazon.js
+│   ├── e-commerce.js
 │   └── checkout.js
 ├── styles/
 │   ├── shared/
 │   │   ├── general.css
-│   │   └── amazon-header.css
+│   │   └── e-commerce-header.css
 │   └── pages/
-│       └── amazon.css
+│       └── e-commerce.css
 ├── .gitattributes
 └── README.md
 ```
