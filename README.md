@@ -1,6 +1,6 @@
 **E-commerce Frontend**
 
-A responsive e-commerce frontend application built using HTML, CSS, and JavaScript. This project demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality. You can visit the page live at [E-commerce-Frontend](https://federico-lin26.github.io/E-commerce-Frontend/)
+A responsive e-commerce frontend application built using HTML, CSS, and JavaScript. This project replicates a modern e-commerce layout for educational and portfolio purposes, and demonstrates a responsive e-commerce layout with a header, search bar, product grid, and cart functionality. You can visit the page live at [E-commerce-Frontend](https://federico-lin26.github.io/E-commerce-Frontend/)
 
 ---
 
